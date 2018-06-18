@@ -7,7 +7,7 @@ of the class.
 
 ---
 
-## Part 1 - HTML
+## [Part 1 - HTML](Part1.md)
 
 ---
 
@@ -44,7 +44,7 @@ of the class.
 
 ---
 
-## Part 2 - CSS
+## [Part 2 - CSS](Part2.md)
 
 ---
 
@@ -78,7 +78,7 @@ Mon-Fri,  Mar 12-16 - Spring Break
 
 ---
 
-## Part 3 - Design
+## [Part 3 - Design](Part3.md)
 
 ---
 
@@ -114,9 +114,10 @@ Mon-Fri,  Mar 12-16 - Spring Break
 
 ### Week 15 - Projects
 
-* Lesson 39 - Project Planning - Monday, Apr 23, 2018
-* Lesson 40 - Project Tracking - Wednesday, Apr 25, 2018
-* Lesson 41 - Tracking Issues - Friday, Apr 27, 2018
+
+* [Lesson 39 - Project Planning](lesson/lesson39.md) - Monday, Apr 23, 2018
+* [Lesson 40 - Project Tracking](lesson/lesson40.md) - Wednesday, Apr 25, 2018
+* [Lesson 41 - Tracking Issues](lesson/lesson41.md) - Friday, Apr 27, 2018
 
 ---
 

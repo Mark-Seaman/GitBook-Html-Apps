@@ -3,7 +3,8 @@
 Create simple but powerful applications using HTML, CSS, and JavaScript
 
 
-## Table of Contents
+## [UNC BACS 200 Schedule](Schedule.md)
+
 
 * [Part 1 - HTML](Part1.md)
 
@@ -28,8 +29,3 @@ Create simple but powerful applications using HTML, CSS, and JavaScript
     * Week 13 - Workplace Skills
     * Week 14 - Hosting
     * Week 15 - Projects
-
-[UNC BACS 200 Schedule](ScheduleBACS200.md)
-
-
-

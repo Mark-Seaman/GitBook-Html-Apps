@@ -87,10 +87,15 @@ Servers and Clients
 ![](img/1-1.png)
 
 ### Multiple Ways to Do Things
+
 ![](img/1-2.png)
+
 ### Responsive Web Design
+
 ![](img/1-3.png)
+
 ### One Drive & Flash Drive
+
 ![](img/1-5.png)
 ![](img/1-4.png)
 
@@ -100,6 +105,7 @@ Servers and Clients
 * One time setup to configure FileZilla
 
 ### Using FileZilla
+
 ![](img/1-12.png)
 
 * Status
@@ -108,9 +114,11 @@ Servers and Clients
 * Transfer Status (Queued, Failed, Successful)
 
 ### Site Manager - General Options
+
 ![](img/1-11.png)
 
 ### Site Manager - Advanced Options
+
 ![](img/1-10.png)
 
 ### Today's Exercise

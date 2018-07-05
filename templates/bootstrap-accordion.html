@@ -1,0 +1,42 @@
+<p>This page is an HTML code fragment not a complete file. Copy this code into a page that already uses Bootstrap.</p>
+<p>Learn more at <a href="https://getbootstrap.com/docs/4.0/components/collapse/#accordion-example">Bootstrap Accordion</a>
+</p>
+<p>Learn more at <a href="/BACS_200/templates/bootstrap-accordion.html">BACS 200 Accordion Template</a></p>
+
+
+<!-- Start of Accordion -->
+<div id="accordion">
+
+    <!-- Card 1 -->
+    <div class="card">
+        <div class="card-header" id="head1">
+            <button class="btn btn-link" data-toggle="collapse" data-target="#collapse1" aria-expanded="true"
+                    aria-controls="collapse1">
+                Group #1
+            </button>
+        </div>
+
+        <div id="collapse1" class="collapse show" aria-labelledby="head1" data-parent="#accordion">
+            <div class="card-body">
+                <h2>Group 1</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-header" id="head2">
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse2" aria-expanded="false"
+                    aria-controls="collapse2">
+                Group #2
+            </button>
+        </div>
+
+        <div id="collapse2" class="collapse" aria-labelledby="head2" data-parent="#accordion">
+            <div class="card-body">
+                <h2>Group 2</h2>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- End of Accordion -->

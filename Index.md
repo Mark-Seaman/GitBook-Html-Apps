@@ -3,7 +3,9 @@
 Create simple but powerful applications using HTML, CSS, and JavaScript
 
 
-## [UNC BACS 200 Schedule](Schedule.md)
+## Overview
+
+* [UNC BACS 200 Schedule](Schedule)
 
 
 * [Part 1 - HTML](Part1.md)

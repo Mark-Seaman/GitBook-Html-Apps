@@ -1,5 +1,6 @@
-book,Seaman's Guide,/guide/Index.md
-home,Home,/guide/HtmlApps/Index.md
-cloud-outline,Lesson01,/guide/HtmlApps/Lesson01
-comment-outline,Slides01,/guide/HtmlApps/Slides01
+book,Seaman's Guide,/guide/Index
+home,BACS 200,/guide/HtmlApps/Index.md
+calendar,Schedule,/guide/HtmlApps/Schedule
+comment-outline,Lesson,/guide/HtmlApps/Lesson01
+local-library,Slides,/guide/HtmlApps/Slides01
 key,Code,/guide/HtmlApps/CodeTemplates.md

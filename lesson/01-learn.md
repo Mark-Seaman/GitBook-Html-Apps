@@ -1,77 +1,5 @@
-# Lesson 1 - Web Design and Development
-* BACS 200 - Lesson 1 (Week 1)
-* Monday, Jan 8, 2018
-* Mark Seaman 
+## Learn - Internet Basics
 
-![](img/Bear_Logo.png)
-
-### Mark Seaman
-* 38 years of software development
-* Not a Doctor
-* Inventor/Teacher
-
-## BACS 200 - Web Design and Development for Small Business
-* Design is about deciding what problems to solve
-* Development is about building a solution
-* Small businesses live and die on software
-
-### Web Development is the new literacy
-* The internet has changed everything 
-* Software is critical to every business
-* Most small business is ignorant about software
-* Knowing how to create websites makes you more attractive
-
-### What will you learn?
-* Theory/Practice
-* Programming in HTML & CSS
-* Development project
-* 50 Tricks
-
-### Success in this class
-* You will each know how to create a website
-* Not difficult - large number of small tricks
-* You can get any grade you like
-
-### What is required?
-* Attend class
-* Do exercises
-* Invest 6 hours each week
-
-### Grades
-* 25% Exams   (3)
-* 25% Project (5)
-* 25% Quizzes (10)
-* 25% Exercises (30)
-
-### BACS200 Webserver
-* http://bacs200.unco.edu
-* All lessons are posted on website
-* All exercises will be published on your student website
-* Quiz every Friday, Exams (week 5, 10, 15)
-* Exercise every class period
-
-### Canvas
-* Learning management system
-* Communicate through Canvas
-    * 24 turn-around (weekdays)
-    * Announcements
-    * Grading
-* Action list
-* Modules
-    * Lectures
-    * Exercises
-    * Quizzes/Exams
-
-### Office Hours
-* Kepner 0095F
-* MWF - 3:30-4:30
-
-
-## What will you learn?
-* Theory/Practice
-* Programming in HTML & CSS
-* Development project
-* 50 Tricks
 
 ### How the internet works
 Servers and Clients
@@ -99,7 +27,7 @@ Servers and Clients
 ![](img/1-5.png)
 ![](img/1-4.png)
 
-## File Transfer Protocol - FTP
+### File Transfer Protocol - FTP
 * Web Server - Holds your HTML files and generates HTTP Responses
 * File Transfer Protocol - FTP - software to transfer files  - FileZilla
 * One time setup to configure FileZilla
@@ -120,19 +48,3 @@ Servers and Clients
 ### Site Manager - Advanced Options
 
 ![](img/1-10.png)
-
-### Today's Exercise
-* Visit the class web server 
-* Go to Lesson 1
-* http://bacs200.unco.edu/BACS_200/lesson1.html
-* Steps 
-    * Configure FTP server
-    * Get file from server
-    * Put file into your directory
-    * Test your new webpage
-
-## See you next time
-* Read Chapter 1 in HTML5/CSS3
-* Complete Ex1 - due today
-
-![](img/MCB.png)

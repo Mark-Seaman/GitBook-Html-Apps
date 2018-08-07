@@ -1,6 +1,6 @@
-# Deploy a web page
+## Build - Sign up for Web Hosting
 
-## Create Files in Windows Directory
+### Create Files in Windows Directory
 
 Create a Folder using Windows
 
@@ -11,7 +11,7 @@ Create a Folder using Windows
 * Test the page by double-clicking "Desktop\\BACS200\\ex1.html"
 
 
-## Configure Filezilla
+### Configure Filezilla
 
 Run FileZilla
 
@@ -22,9 +22,8 @@ Create Site Manager entry
 * Click on Site Manager in file menu
 * New Site
 * Host name: BACS200.UNCO.EDU
-<br>
 
-Configure FTP Site Manager General Options
+### Configure FTP Site Manager General Options
 
 ![](img/1-11.png)
 
@@ -34,27 +33,24 @@ Configure FTP Site Manager General Options
 * Logon Type: Normal
 * User: student1\\your-id
 * Password: your canvas password
-<br>
 
-Configure FTP Site Manager Advanced Options
+### Configure FTP Site Manager Advanced Options
 ![](img/1-10.png)
 
 * Default local directory:  C:\\Users\\xxx\\Desktop\\BACS200
-<br>
 
-Using FileZilla
+### Using FileZilla
 
 ![](img/1-12.png)
-<br>
 
-Disconnect from FTP server
+### Disconnect from FTP server
 
 * Close FileZilla
 * Open FileZilla
 * Reconnect again to make sure that everything still works
 
 
-## Copy to the File Server
+### Copy to the File Server
 
 Connect to the File Server
 
@@ -63,14 +59,8 @@ Connect to the File Server
 * Remote Directory: /
 * Upload: ex1.html
 
-Test the web server page
+### Test the web server page
 
 * Visit the URL - http://bacs200.unco.edu/your_id/index.html
 * If your page does not load (404) then revisit all the steps that you did to find the error.
 
-
-## Update Canvas
-
-* Login to Canvas
-* Visit Modules, Week 1, Ex 1 - Deploy your web page
-* Submit the URL for the exercise "http://bacs200.unco.edu/your_id/index.html"

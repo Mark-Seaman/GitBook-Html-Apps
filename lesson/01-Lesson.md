@@ -1,36 +1,17 @@
-# Lesson 1 - Setup HTML Server
+
+* Setup Web Hosting Server
+* Date: Mon, 08-20
+* by Mark Seaman
+
 ![](img/Bear_Logo.png)
 
-Date: Mon, 08-20
 
-### Lesson Outline
+### Today's lesson
 
-Learn
+Learn - The new literacy
 
-    Why take this class?
-    What will we learn?
-    How will we learn?
-    This class is not for everyone
+Plan - BACS 200 logistics
 
-Plan
+Build - Create a web host
 
-    Rules for Success
-    Each Lesson Workflow
-    Exercises & Projects
-    Sign up for Bluehost
-
-
-Build
-
-    Step 1 - Make a directory to save your code
-    Step 2 - Create exercise file
-    Step 3 - Test your page
-    Step 4 - Add some dynamic logic
-    Step 5 - Setup a server
-    Step 6 - Push files to server
-
-Share
-
-    Build Your code 'index.php', 'project/ex01.php'
-    Send your code to Bluehost
-    Submit your URL in Canvas
+Share - Register your server in Canvas

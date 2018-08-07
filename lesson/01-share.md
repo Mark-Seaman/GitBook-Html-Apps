@@ -1,4 +1,4 @@
-## Lesson 1 - Share
+## Share - Register your Hosting Server
 
 * During the build steps you created and deployed a web page
 * Now register that URL in Canvas to get credit
